@@ -1,0 +1,4 @@
+- #gzip crea un file compresso (.gz), reversibile con #gunzip 
+- #bzip2 crea un file compresso (.bz o .bz2), reversibile con #bunzip2
+- #tar crea un archivio compresso da una dir (.tar)
+	- -xf per estrarre i file

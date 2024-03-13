@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "d0f15f92e73ce846",
+    "type": "split",
+    "children": [
+      {
+        "id": "435a73aada01bdce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1f0277e172d56ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Vulnerabilità e attacchi web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1f7a61600acb273",
+    "type": "split",
+    "children": [
+      {
+        "id": "052a013421e21880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f81b80136235e353",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81c7153f0329e2db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6709ba0abc32e2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "597801877a68d3b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e5ce2a8072074b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e8cace87dacecd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web/Vulnerabilità e attacchi web.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1335db16651907a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web/Vulnerabilità e attacchi web.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ef3d1c6b09150e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "285006999223874f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web/Vulnerabilità e attacchi web.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "f1f0277e172d56ce",
+  "lastOpenFiles": [
+    "Domande.md",
+    "Web/Vulnerabilità e attacchi web.md",
+    "Web/Web Security.md",
+    "SQL Injections.md",
+    "Senza nome.canvas",
+    "Shell/Special Characters and Regex in Shell Commands.md",
+    "Ctf/CTF Notes.md",
+    "Shell/Shell Commands.md",
+    "Shell/Remote Connection Shell Commands.md",
+    "Shell/File Compressing Shell Commands.md",
+    "Python/Python.md",
+    "Assembly.md",
+    "Regex.md",
+    "Toolbox.md",
+    "Remote Connection Shell Commands$curl.md",
+    "2024-03-11.md",
+    "Python/Python Methods.md",
+    "Python/Python LIbraries.md",
+    "Web Se",
+    "Web",
+    "Excalidraw/Drawing 2024-03-01 14.43.37.excalidraw.md",
+    "Excalidraw",
+    "Giamberozzi GPOI.md",
+    "Excalidraw/Drawing 2024-02-29 12.06.39.excalidraw.md",
+    "domande.md",
+    "Python",
+    "Ctf",
+    "Shell",
+    "HTML import",
+    "bandit_passwords_6.md",
+    "Welcome.md",
+    "HTML import/Shell_linux.md",
+    "create a link.md",
+    "Shell_linux_HTML/res/styles4.css",
+    "Shell_linux_HTML/res/script3.js",
+    "Shell_linux_HTML/res"
+  ]
+}
