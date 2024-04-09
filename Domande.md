@@ -1,6 +1,4 @@
-1) cosa fa << e la differenza con <
 2) cosa fa awk
-3) cos'è ssl
-4) secure, httponly, samesite cookies
-5) SSRF
+3) come funziona ssl
+4) secure, httponly, samesite cookies # da rifare
 6) dns pingback
