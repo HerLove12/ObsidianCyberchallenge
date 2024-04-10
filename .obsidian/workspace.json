@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Access Controll.md",
+                "file": "Access Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Access Controll.md",
+                "file": "Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Access Controll.md",
+                "file": "Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Access Controll.md"
+                "file": "Access Control.md"
               }
             }
           }
@@ -176,7 +176,7 @@
   "active": "ac3dfdf2a933062f",
   "lastOpenFiles": [
     "Domande.md",
-    "Access Controll.md",
+    "Access Control.md",
     "Network/Network.md",
     "Network/Docker.md",
     "Ctf/CTF Notes.md",
